@@ -4,4 +4,4 @@
 tf.keras, Embedding и Dense (полносвязный) слои, функции активации и лоссы для регрессии и классификации, использование предобученных векторных представлений в нейронных сетях
 
 
-
+Данные для семинара - https://drive.google.com/file/d/1GQm-IH3iGu1-HVjZ5npL5xeKovp0Aa60/view?usp=sharing
